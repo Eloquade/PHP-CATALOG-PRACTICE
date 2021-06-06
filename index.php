@@ -49,6 +49,7 @@ switch($_GET["action"]) {
 <link href="style.css" type="text/css" rel="stylesheet" />
 </HEAD>
 <BODY>
+
 <div id="shopping-cart">
 <div class="txt-heading">Shopping Cart</div>
 

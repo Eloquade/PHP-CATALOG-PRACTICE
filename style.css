@@ -122,3 +122,10 @@ body {
 	clear: both;
 	margin: 38px 0px;
 }
+h1{
+	background-image:url("https://bearings.ir/wp-content/uploads/2018/06/catalogLogo.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top:200px;
+	margin-bottom:200px;
+}
