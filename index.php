@@ -22,7 +22,12 @@
            Renzo Florendo,  Darell Dumalay. Our group created this for our Quiz in Integrative Programming and Technologies.
            This site is for Log in and Quiz Registration.
           </p>
-          <a href="#" class="info__cta">Go to Catalog</a>
+          <a href="#"  onclick="myFunction()"  class="info__cta">Go to Catalog</a>
+            <script>
+                function myFunction() {
+                    location.replace("catalog.php")
+                }
+            </script>
         </header>
       </section>
       <section class="cards">
