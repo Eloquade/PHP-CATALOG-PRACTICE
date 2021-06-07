@@ -4,7 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" href="static/dist/styles.css">
+    <link href="static/dist/tailwind.css" type="text/css" rel="stylesheet">
+    <link href="static/dist/styles.css" type="text/css" rel="stylesheet">
     <link
       href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap"
       rel="stylesheet"
@@ -18,9 +19,9 @@
           <h1 class="info__title">Meet Our Team</h1>
           <span class="info__spacer"></span>
           <p class="info__subtext">
-           Our group consists of 5 people, Our leader Lawrence perez,  jheave jimenez,  Donna Macabugao,
-           Renzo Florendo,  Darell Dumalay. Our group created this for our Quiz in Integrative Programming and Technologies.
-           This site is for Log in and Quiz Registration.
+           Our group consists of 5 people, Our leader Lawrence Perez.
+           And the Members are Jheave Jimenez,  Donna Macabugao,
+           Renzo Florendo,  Darell Dumalay
           </p>
           <a href="#"  onclick="myFunction()"  class="info__cta">Go to Catalog</a>
             <script>
